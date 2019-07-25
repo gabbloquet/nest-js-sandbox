@@ -1,5 +1,4 @@
 import { Get, Controller, Render, Param, Res } from '@nestjs/common';
-import { ApiExcludeEndpoint } from '@nestjs/swagger';
 
 @Controller()
 export class AppController {
