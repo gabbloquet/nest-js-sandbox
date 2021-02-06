@@ -44,11 +44,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Stay in touch
-
-- Author - [Aurelien Loyer](https://aurelien-loyer.fr)
-- Twitter - [@AurelienLoyer](https://twitter.com/AurelienLoyer)
-
 ## License
 
 BaaS is [MIT licensed](LICENSE). 🍻
